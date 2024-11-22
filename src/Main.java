@@ -24,11 +24,7 @@ public class Main {
         books.add("Books08");
         books.add("Books09");
         books.add("Books10");
-        books.add("Books12");
-        books.add("Books11");
-        books.add("Books13");
-        books.add("Books15");
-        books.add("Books14");
+
 
         System.out.println(books.toString());
         System.out.println("getShelvesOnBooks(books) = " + getShelvesOnBooks(books).toString());
